@@ -1,0 +1,6 @@
+package org.free.de.ji.core._000.dao._000._alpha.s;
+
+public interface S_D_enI {
+	public String getS();
+	public org.free.de.ji.core._000.interf._000.a.Alpha_enI setS(String s);
+}
